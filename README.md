@@ -1,3 +1,7 @@
+This is a fork of [https://github.com/johnnovak/gridmonger](https://github.com/johnnovak/gridmonger) <BR />
+It is unmodifued currently and is just being used for a Linux release. <BR />
+If you do not have Linux then go elsewhere.<BR />
+
 <img src="extras/logo/logo-big-bw.png" width="100%" alt="Gridmonger" />
 
 <p align="center"><em>Your trusty old-school cRPG mapping companion</em></p>
