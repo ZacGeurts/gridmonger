@@ -1,7 +1,7 @@
 This is a fork of [https://github.com/johnnovak/gridmonger](https://github.com/johnnovak/gridmonger) <BR />
 It is unmodifued currently and is just being used for a Linux release. <BR />
-See [Releases](https://github.com/ZacGeurts/gridmonger/releases)<BR />
 If you do not have Linux then go to the link above.<BR />
+See [Releases](https://github.com/ZacGeurts/gridmonger/releases)<BR />
 
 <img src="extras/logo/logo-big-bw.png" width="100%" alt="Gridmonger" />
 
